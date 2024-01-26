@@ -1,1 +1,1 @@
-I have posted my first project on my github
+I have posted my first project on my github. It is a clone webpage of popular website amazon.com which I made using HTML, CSS from scratch. Currently I am working on it and I will make it more responsive and functional website.
